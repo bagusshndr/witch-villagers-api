@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WitchVillagerApi.props" />
+</Project>
